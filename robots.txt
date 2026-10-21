@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mercurrial.github.io/ModbusReader/sitemap.xml
