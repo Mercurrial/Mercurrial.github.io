@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mercurrial.github.io/ModbusReader/sitemap.xml
+Sitemap: https://modbusreader.ru/sitemap.xml
